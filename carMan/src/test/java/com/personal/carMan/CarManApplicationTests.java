@@ -1,0 +1,13 @@
+package com.personal.carMan;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CarManApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
